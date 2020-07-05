@@ -57,6 +57,9 @@ body {
   font-style: normal;
 }
 
+.current-link {
+  color: var(--accent-color);
+}
 /* HERO */
 .hero-title {
   font-weight: 900;
@@ -79,6 +82,7 @@ body {
 /* ABOUT US */
 .about-list-title {
   font-weight: 700;
+  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
